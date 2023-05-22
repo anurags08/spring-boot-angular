@@ -1,4 +1,4 @@
-package com.javatechie.reg.service.api.model;
+package com.assignment.reg.service.api.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
